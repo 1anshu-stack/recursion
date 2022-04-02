@@ -5,3 +5,4 @@ Big problem ka solution same type ki chotti problem.
 Base case where we have to stop our recursion.
 recursive relation.
 
+segmentation fault occur when you don't put the base case. what happed is that stack get over flow so it give us segmentation fault
