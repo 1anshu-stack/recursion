@@ -1,0 +1,7 @@
+when a function call itself is called recursion.
+
+Big problem ka solution same type ki chotti problem.
+
+Base case where we have to stop our recursion.
+recursive relation.
+
