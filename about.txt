@@ -6,3 +6,7 @@ Base case where we have to stop our recursion.
 recursive relation.
 
 segmentation fault occur when you don't put the base case. what happed is that stack get over flow so it give us segmentation fault
+
+if power is even=> a^b/2 * a^b/2.
+if power is odd=> a*(a^b/2 * a^b/2).
+this is the optmize way to find a power of an element.

@@ -22,6 +22,6 @@ int main(){
     cin>>key;
     int s=0;
     int e=sizeof(arr)/sizeof(arr[0]);
-    cout<<binary(arr, s, e, key);
+    cout<<binary(arr, s, e-1, key);
     return 0;
 }
